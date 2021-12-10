@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noah!
 - 👀 I’m interested in artificial intelligence and sustainability
-- 🌱 I’m currently learning C at Drexel University while working full time at Lockheed Martin
+- 🌱 I’m currently a student at Drexel University and working full time at Lockheed Martin
 - 📫 You can reach me at nkr38@drexel.edu
 
 <!---
