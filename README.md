@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noah!
-- 👀 I’m interested in artificial intelligence, firmware, and sustainability
+- 👀 My goal is to better civilization and its sustainability through my work.
 - 🌱 I’m currently a student at Drexel University
 - 📫 You can reach me at nkr38@drexel.edu
 
